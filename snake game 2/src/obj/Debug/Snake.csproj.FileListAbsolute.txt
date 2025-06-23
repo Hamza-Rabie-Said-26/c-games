@@ -1,0 +1,10 @@
+C:\Users\almc\Downloads\Snake-master\src\bin\Debug\Snake.exe.config
+C:\Users\almc\Downloads\Snake-master\src\bin\Debug\Snake.exe
+C:\Users\almc\Downloads\Snake-master\src\bin\Debug\Snake.pdb
+C:\Users\almc\Downloads\Snake-master\src\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\almc\Downloads\Snake-master\src\obj\Debug\Snake.GameForm.resources
+C:\Users\almc\Downloads\Snake-master\src\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\almc\Downloads\Snake-master\src\obj\Debug\Snake.csproj.GenerateResource.cache
+C:\Users\almc\Downloads\Snake-master\src\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\almc\Downloads\Snake-master\src\obj\Debug\Snake.exe
+C:\Users\almc\Downloads\Snake-master\src\obj\Debug\Snake.pdb
